@@ -1,0 +1,27 @@
+{
+  "name": "study-monitor-backend",
+  "version": "1.0.0",
+  "description": "Backend data ingestion, processing and storage service for the Adaptive Study Environment Monitor",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "iot",
+    "data-engineering",
+    "esp32",
+    "supabase",
+    "postgresql",
+    "express"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "type": "commonjs",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.106.2",
+    "cors": "^2.8.6",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1"
+  }
+}
