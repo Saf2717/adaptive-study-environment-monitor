@@ -2,8 +2,6 @@
 
 This document describes the main data collected, processed and stored by the Adaptive Study Environment Monitor.
 
-![Example Image](image.png)
-
 ## Sensor Data
 
 | Field         | Type    | Source                | Description                                                                   |
