@@ -4,6 +4,8 @@ An IoT-based environmental monitoring system that collects temperature, humidity
 
 The project combines an ESP32-based sensing device with a Node.js backend, external weather data, Supabase PostgreSQL storage and Telegram notifications.
 
+![Example Image](example.png)
+
 ## Overview
 
 The system was designed as an end-to-end data pipeline.
